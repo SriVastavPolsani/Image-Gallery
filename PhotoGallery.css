@@ -1,0 +1,25 @@
+img{
+        width:15%;
+        height:15%;
+        margin: 1.5%;
+        margin-left: 25%;
+}
+
+.jumbotron{
+    width:75%;
+    margin:0 auto;
+    padding: 20px;
+}
+
+ .navbar-default {
+    background-color: #0f006f;
+    border-color: #030033;
+}
+
+
+.container{
+    
+    margin:0 auto;
+}
+
+
